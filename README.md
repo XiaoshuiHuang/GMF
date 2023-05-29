@@ -108,3 +108,20 @@ python test_kitti.py
 |  [3DMatch/FPFH(77.53%)](https://drive.google.com/file/d/1aBRdkIy1NWi-yNsU1i6v90jT49YutURQ/view?usp=share_link)        | [3DMatch/FPFH(81.45%)](https://drive.google.com/file/d/1jqhA4D58GSAzCecig0wvfQ-IWyotB8wM/view?usp=share_link)     |
 |  [Kitti/FCGF(98.73%)](https://drive.google.com/file/d/1FlFlJlffhhz2fP2KVKSMfRH7Z6YrDkAB/view?usp=share_link)        | [Kitti/FCGF(98.38%)](https://drive.google.com/file/d/11c5XtQDACirBRBelLTbTQnM1Wy23pTxn/view?usp=share_link)     |
 
+
+## Citing our work
+
+Please cite the following papers if you use our code:
+
+```latex
+@article{huang2022gmf,
+  title={GMF: General Multimodal Fusion Framework for Correspondence Outlier Rejection},
+  author={Huang, Xiaoshui and Qu, Wentao and Zuo, Yifan and Fang, Yuming and Zhao, Xiaowei},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={4},
+  pages={12585--12592},
+  year={2022},
+  publisher={IEEE}
+}
+```
