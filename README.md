@@ -116,7 +116,7 @@ Please cite the following papers if you use our code:
 ```latex
 @article{huang2022gmf,
   title={GMF: General Multimodal Fusion Framework for Correspondence Outlier Rejection},
-  author={Huang, Xiaoshui and Qu, Wentao and Zuo, Yifan and Fang, Yuming and Zhao, Xiaowei},
+  author={Xiaoshui Huang, Wentao Qu, Yifan Zuo, Yuming Fang and Xiaowei Zhao},
   journal={IEEE Robotics and Automation Letters},
   volume={7},
   number={4},
